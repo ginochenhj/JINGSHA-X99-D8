@@ -20,7 +20,7 @@ AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/JINGSHA-X99-D8.svg?style=for-the-badge&logo=appveyor" alt="license"/>
     </a>
 
-## BQ36RD24 BIOS for Jingsha X99 Dual Motherboard
+## AD12RD29 BIOS for Jingsha X99-D8 (AD12 Ver. 1.0) Motherboard
 Feature: UEFI/CSM Supported, RAID. 
 
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99D8-AD12.jpg" alt="Jingsha X99-D8 AD12 Ver. 1.0 AD12RD29 BIOS" />
