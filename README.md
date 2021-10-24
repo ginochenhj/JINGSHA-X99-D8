@@ -10,14 +10,14 @@ AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
 
 * ##### Release AD12RD29 October-24-2021
 * ##### Builder: iEngineer
-    <a href="https://github.com/BIOS-iEngineer/Jingsha-X99-Dual/releases/latest">
-        <img src="https://img.shields.io/github/release/BIOS-iEngineer/Jingsha-X99-Dual.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
+    <a href="https://github.com/BIOS-iEngineer/JINGSHA-X99-D8/releases/latest">
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/JINGSHA-X99-D8.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
     </a>
-    <a href="https://github.com/BIOS-iEngineer/Jingsha-X99-Dual/releases">
-        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/Jingsha-X99-Dual/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
+    <a href="https://github.com/BIOS-iEngineer/JINGSHA-X99-D8/releases">
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/JINGSHA-X99-D8/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
     </a>
-    <a href="https://github.com/BIOS-iEngineer/Jingsha-X99-Dual/blob/master/License">
-        <img src="https://img.shields.io/github/license/BIOS-iEngineer/Jingsha-X99-Dual.svg?style=for-the-badge&logo=appveyor" alt="license"/>
+    <a href="https://github.com/BIOS-iEngineer/JINGSHA-X99-D8/blob/master/License">
+        <img src="https://img.shields.io/github/license/BIOS-iEngineer/JINGSHA-X99-D8.svg?style=for-the-badge&logo=appveyor" alt="license"/>
     </a>
 
 ## BQ36RD24 BIOS for Jingsha X99 Dual Motherboard
