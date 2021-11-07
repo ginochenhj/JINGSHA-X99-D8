@@ -25,7 +25,7 @@ AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
 ## AD12RD29 BIOS for Jingsha X99-D8 (AD12 Ver. 1.0) Motherboard
 [Download Windows 10 x64 IRSTe SATA RAID Driver](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/IRSTe%20SATA%20C612/IRSTe%20SATA.zip)
 
-Feature: DDR4 RDIMM, UDIMM, LRDIMM, ECC, UEFI/CSM Legacy devices supported, RAID.
+Feature: DDR4 RDIMM, UDIMM, LRDIMM, ECC, CPU FSB 100MHz, Intel ME 5MiB (Ctrl+P, default password: admin), UEFI/CSM Legacy devices supported, RAID (Ctrl+I).
 
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99D8-AD12.jpg" alt="Jingsha X99-D8 AD12 Ver. 1.0 AD12RD29 BIOS" />
 
