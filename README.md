@@ -1,13 +1,6 @@
 # JINGSHA-X99-D8
 AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
 
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
-</a>
-<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
-  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
-</a>
-
 * ##### Release AD12RD29 October-24-2021
 * ##### Builder: iEngineer
 <div align="left">
