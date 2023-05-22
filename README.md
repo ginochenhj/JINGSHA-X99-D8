@@ -1,8 +1,6 @@
 # JINGSHA-X99-D8
 #### AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
-<a href="https://ko-fi.com/iengineer">
- <img src="https://github.com/BIOS-iEngineer/PNG/blob/main/ko-fi.jpeg" alt="Support Me on Ko-fi"/>
- </a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1D2IBH)
 
 * ##### Release AD12RD29 October-24-2021
 * ##### Builder: iEngineer
