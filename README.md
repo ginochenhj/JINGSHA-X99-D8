@@ -2,6 +2,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1D2IBH)
 
+<a href="https://www.youtube.com/watch?v=WkXiwscIcP0">
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CX99DE47.jpg" alt="CX99DE47 BIOS for JINGSHA X99-D8 AD12 Ver. 1.0 Gaming/Workstation Motherboard Review" />
+</a>
+
 #### ✔️ CX99DE47 BIOS for Jingsha X99-D8 (AD12) Motherboard 08/10/2023
 ##### ✔️ Release CX99DE47 August-10-2023
 ##### ✔️ You can purchase the latest release firmware on the <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/s/bf624ae76d">Ko-fi Store.</a>
