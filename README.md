@@ -1,9 +1,21 @@
-# JINGSHA-X99-D8
-#### AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
+# JINGSHA X99-D8 AD12 Ver. 1.0
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1D2IBH)
 
-* ##### Release AD12RD29 October-24-2021
-* ##### Builder: iEngineer
+#### ✔️ CX99DE47 BIOS for Jingsha X99-D8 (AD12) Motherboard 08/10/2023
+##### ✔️ Release CX99DE47 August-10-2023
+##### ✔️ You can purchase the latest release firmware on the <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/s/bf624ae76d">Ko-fi Store.</a>
+##### ✔️ Builder: iEngineer
+##### ✔️ Notice: Distribution for russia is prohibited.
+
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612AD12.png" alt="Jingsha X99-D8 AD12 Ver. 1.0 Block Diagram CX99DE47 BIOS" />
+
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/TRAD12.png" alt="Jingsha X99-D8 AD12 Ver. 1.0 CX99DE47 BIOS" />
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=5SNAZKN9PGZFJ">
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/Paypal.PNG" alt="Donate with PayPal" />
+</a>
+
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/JINGSHA-X99-D8/releases">
         <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/JINGSHA-X99-D8/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
@@ -16,12 +28,13 @@
     </a>
 </div>
 
-## AD12RD29 BIOS for Jingsha X99-D8 (AD12 Ver. 1.0) Motherboard
-[Download Windows 10 x64 IRSTe SATA RAID Driver](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/IRSTe%20SATA%20C612/IRSTe%20SATA.zip)
+[Download Windows 10/11 x64 IRSTe SATA RAID Driver](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/IRSTe%20SATA%20C612/IRSTe%20SATA.zip)
 
-Feature: DDR4 RDIMM, UDIMM, LRDIMM, ECC, CPU FSB 100MHz, Intel ME 5MiB (Ctrl+P, default password: admin), UEFI/CSM Legacy devices supported, RAID (Ctrl+I).
-
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99D8-AD12.jpg" alt="Jingsha X99-D8 AD12 Ver. 1.0 AD12RD29 BIOS" />
+## Preview release AD12RD29 BIOS for Jingsha X99-D8 (AD12) Motherboard 10/24/2021
+* ##### Build AD12RD29 October-24-2021
+* ##### Builder: iEngineer
+Feature: DDR4 RDIMM, UDIMM, LRDIMM, ECC, CPU FSB 100MHz, Intel ME 5MiB (Ctrl+P, default password: admin), (Only preview release supported LEGACY MODE), RAID (Ctrl+I).
+* To improve system stability of the CX99DE47 only UEFI Mode, Legacy mode not supported.
 
 How to update Firmware:
 
